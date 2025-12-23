@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drx-sumitpandey.github.io/lost-munda/sitemap.xml
